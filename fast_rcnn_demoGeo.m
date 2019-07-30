@@ -1,11 +1,5 @@
 function fast_rcnn_demoGeo(varargin)
-%FAST_RCNN_DEMO  Demonstrates Fast-RCNN
-%
-% Copyright (C) 2016 Abhishek Dutta and Hakan Bilen.
-% All rights reserved.
-%
-% This file is part of the VLFeat library and is made available under
-% the terms of the BSD license (see the COPYING file).
+
 warning off
 dirAtual = fullfile(vl_rootnn,'examples','fast_rcnnGeo');
 
