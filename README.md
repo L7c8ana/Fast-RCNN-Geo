@@ -5,7 +5,7 @@ The Geo Model Fast-RCNN model that was trained on a large synthetic dataset with
 
 There are one entry-point scripts:
 
-* `fast_rcnn_demoGeo.m`: runs the original Caffe model imported in MatConvNet.
+* `fast_rcnn_demoGeo.m`: run in MatConvNet.
 
 
 Note that the code does ship with a proposal generation method using Selective
@@ -20,7 +20,7 @@ model as needed.
 2. Installing and compiling the library on http://www.vlfeat.org/matconvnet/install/
 3. git clone this repository in examples/ 
 4. Extract all tar.gz
-5. Download Geo Model Fast-RCNN on https://www.dropbox.com/h?preview=net-deployedGeo.mat 
+5. Download Geo Model Fast-RCNN on https://www.dropbox.com/s/dc4xnqs9ldnva9s/net-deployedGeo.mat?dl=0 or https://drive.google.com/open?id=1n3JNVhosoTefoN3rM_FHkUUqYOXBynaA
 
 To demo code using the first GPU on your system, use
 something like:
